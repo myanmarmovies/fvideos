@@ -1,0 +1,5 @@
+﻿
+      "des": "In Shanghai, an aging socialite’s infatuation with her ex-boyfriend manifests itself as a risky game, where her former lover agrees to seduce, then abandon a naive young woman.",
+      "link_one": "https://yadi.sk/i/SWbn8ziqlDXEAg",
+      "link_two": "http://www.mediafire.com/file/tycgwtnsp806wnv/27_Dangerous_Liaisons_%25282012%2529.mp4/file",
+      "size": "308 MB"

@@ -1,0 +1,5 @@
+﻿
+      "des": "18+ ဖြစ်ပါတယ် အသက် ၁၈ နှစ်ပြည့်မှ ကြည့်ပါ မိသားစုနဲ့ လုံးဝ(လုံးဝ) ကြည့်လို့မရပါ.",,
+      "link_one": "https://yadi.sk/i/a7pMY_u36Iqt0A",
+      "link_two": "https://www.mediafire.com/file/yuctieeepd2ry74/82_NSPS-208.FOF.mp4/file",
+      "size": "574 MB"
